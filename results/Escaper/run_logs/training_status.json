@@ -1,0 +1,65 @@
+{
+    "Escaper": {
+        "checkpoints": [
+            {
+                "steps": 499984,
+                "file_path": "results\\Escaper\\Escaper\\Escaper-499984.onnx",
+                "reward": 1.2190870461256609,
+                "creation_time": 1673082081.565352,
+                "auxillary_file_paths": [
+                    "results\\Escaper\\Escaper\\Escaper-499984.pt"
+                ]
+            },
+            {
+                "steps": 500028,
+                "file_path": "results\\Escaper\\Escaper\\Escaper-500028.onnx",
+                "reward": 1.2363405138888257,
+                "creation_time": 1673082081.5863707,
+                "auxillary_file_paths": [
+                    "results\\Escaper\\Escaper\\Escaper-500028.pt"
+                ]
+            },
+            {
+                "steps": 999940,
+                "file_path": "results\\Escaper\\Escaper\\Escaper-999940.onnx",
+                "reward": 1.6214872484023755,
+                "creation_time": 1673082637.223965,
+                "auxillary_file_paths": [
+                    "results\\Escaper\\Escaper\\Escaper-999940.pt"
+                ]
+            },
+            {
+                "steps": 1499963,
+                "file_path": "results\\Escaper\\Escaper\\Escaper-1499963.onnx",
+                "reward": 2.030666728814443,
+                "creation_time": 1673082848.8962445,
+                "auxillary_file_paths": [
+                    "results\\Escaper\\Escaper\\Escaper-1499963.pt"
+                ]
+            },
+            {
+                "steps": 1612045,
+                "file_path": "results\\Escaper\\Escaper\\Escaper-1612045.onnx",
+                "reward": 1.9046072265399354,
+                "creation_time": 1673082895.6190434,
+                "auxillary_file_paths": [
+                    "results\\Escaper\\Escaper\\Escaper-1612045.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1612045,
+            "file_path": "results\\Escaper\\Escaper.onnx",
+            "reward": 1.9046072265399354,
+            "creation_time": 1673082895.6190434,
+            "auxillary_file_paths": [
+                "results\\Escaper\\Escaper\\Escaper-1612045.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

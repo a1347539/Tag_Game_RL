@@ -1,0 +1,123 @@
+{
+    "Mover": {
+        "checkpoints": [
+            {
+                "steps": 499963,
+                "file_path": "results\\Mover1\\Mover\\Mover-499963.onnx",
+                "reward": null,
+                "creation_time": 1673083514.2056804,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Mover\\Mover-499963.pt"
+                ]
+            },
+            {
+                "steps": 822530,
+                "file_path": "results\\Mover1\\Mover\\Mover-822530.onnx",
+                "reward": 0.7669999922576703,
+                "creation_time": 1673083697.928101,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Mover\\Mover-822530.pt"
+                ]
+            },
+            {
+                "steps": 999986,
+                "file_path": "results\\Mover1\\Mover\\Mover-999986.onnx",
+                "reward": -0.70444455742836,
+                "creation_time": 1673083939.3901718,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Mover\\Mover-999986.pt"
+                ]
+            },
+            {
+                "steps": 1079713,
+                "file_path": "results\\Mover1\\Mover\\Mover-1079713.onnx",
+                "reward": 0.8699999928474427,
+                "creation_time": 1673084103.4802244,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Mover\\Mover-1079713.pt"
+                ]
+            },
+            {
+                "steps": 1482697,
+                "file_path": "results\\Mover1\\Mover\\Mover-1482697.onnx",
+                "reward": 0.7370656256970292,
+                "creation_time": 1673084961.5054204,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Mover\\Mover-1482697.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1482697,
+            "file_path": "results\\Mover1\\Mover.onnx",
+            "reward": 0.7370656256970292,
+            "creation_time": 1673084961.5054204,
+            "auxillary_file_paths": [
+                "results\\Mover1\\Mover\\Mover-1482697.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    },
+    "Escaper": {
+        "checkpoints": [
+            {
+                "steps": 2499977,
+                "file_path": "results\\Mover1\\Escaper\\Escaper-2499977.onnx",
+                "reward": -2.522266670068105,
+                "creation_time": 1673084678.1053948,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Escaper\\Escaper-2499977.pt"
+                ]
+            },
+            {
+                "steps": 2851598,
+                "file_path": "results\\Mover1\\Escaper\\Escaper-2851598.onnx",
+                "reward": null,
+                "creation_time": 1673084961.531949,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Escaper\\Escaper-2851598.pt"
+                ]
+            },
+            {
+                "steps": 2999988,
+                "file_path": "results\\Mover1\\Escaper\\Escaper-2999988.onnx",
+                "reward": -2.9810003452003,
+                "creation_time": 1673085095.565401,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Escaper\\Escaper-2999988.pt"
+                ]
+            },
+            {
+                "steps": 3499993,
+                "file_path": "results\\Mover1\\Escaper\\Escaper-3499993.onnx",
+                "reward": 1.6594500739127398,
+                "creation_time": 1673085308.1854143,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Escaper\\Escaper-3499993.pt"
+                ]
+            },
+            {
+                "steps": 3800847,
+                "file_path": "results\\Mover1\\Escaper\\Escaper-3800847.onnx",
+                "reward": 1.8350000655651093,
+                "creation_time": 1673085438.7733836,
+                "auxillary_file_paths": [
+                    "results\\Mover1\\Escaper\\Escaper-3800847.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3800847,
+            "file_path": "results\\Mover1\\Escaper.onnx",
+            "reward": 1.8350000655651093,
+            "creation_time": 1673085438.7733836,
+            "auxillary_file_paths": [
+                "results\\Mover1\\Escaper\\Escaper-3800847.pt"
+            ]
+        }
+    }
+}
